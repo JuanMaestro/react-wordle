@@ -207,4 +207,6 @@ export const VALID_GUESSES = [
   'cidr',
   'soho',
   'conf',
+  'ospf',
+  'isis',
 ]
