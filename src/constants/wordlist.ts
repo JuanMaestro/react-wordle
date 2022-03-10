@@ -20,5 +20,7 @@ export const WORDS = [
   'cidr',
   'soho',
   'conf',
+  'ping',
+  'host',
   
 ]
