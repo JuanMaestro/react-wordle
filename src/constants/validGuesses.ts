@@ -9,6 +9,7 @@ export const VALID_GUESSES = [
   'apip',
   'ascu',
   'band',
+  'ping',
   'base',
   'bert',
   'bits',
